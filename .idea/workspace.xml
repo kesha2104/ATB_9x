@@ -61,7 +61,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LAb003">
+  <component name="RunManager" selected="Application.Lab005">
     <configuration name="LAb003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LAb003" />
       <module name="ATB_9xProgram_java" />
@@ -89,6 +89,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oct.Lab005" />
+      <module name="ATB_9xProgram_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="ATB_9xProgram_java" />
       <method v="2">
@@ -104,6 +117,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab005" />
         <item itemvalue="Application.LAb003" />
         <item itemvalue="Application.Lab002" />
         <item itemvalue="Application.Lab001" />
